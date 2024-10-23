@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lauren’s Website",
+    "section": "",
+    "text": "I am an Intern in the Bio/Diversity Project Data Science Outreach. I work with 4th-6th grade students to help them develop a passion for biodiversity in the Sonoran Desert and Data Science. I am currently a student at the University of Arizona studying Computer Science.\nYou can view more information about my project"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Photo by Lane Gore\n\n\nThe Bio/Diversity Project is a collaborative effort between WISE, Saguaro National Park and the Friends of Saguaro National Park, with additional support from local environmental organizations, aimed at increasing the diversity of voices included in discussions of environmental problems and the development of their solutions. By increasing access to innovative environmental science educational opportunities and training, mentoring, and work experience along the K-16+ educational pipeline, we aim to get students excited about environmental science and support them along their educational journeys and into the workforce."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "complete this task\ncomplete this other task"
+  },
+  {
+    "objectID": "project.html#this-is-my-cool-project",
+    "href": "project.html#this-is-my-cool-project",
+    "title": "Project",
+    "section": "",
+    "text": "complete this task\ncomplete this other task"
+  }
+]
